@@ -41,7 +41,7 @@
     "EMBED_BACKGROUND_ALTERNATE": ["#00000030"],
     "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#8fa8c4"],
-    "TEXT_NORMAL": ["#f0f4f8"],
+    "TEXT_NORMAL": ["#ffffff"],
     "TEXT_MUTED": ["#8fa8c4"],
     "TEXT_LINK": ["#38bdf8"],
     "INTERACTIVE_NORMAL": ["#8fa8c4"],
