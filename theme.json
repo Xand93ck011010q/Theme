@@ -1,83 +1,39 @@
 {
-  "name": "2cx4 Aurora",
-  "description": "AMOLED Aurora Blue theme matching the eclipse wallpaper.",
-  "authors": [
-    {
-      "name": "@2cx4"
-    }
-  ],
-  "semanticColors": {
-    "HEADER_PRIMARY": ["#F4FBFF"],
-    "HEADER_SECONDARY": ["#CDEFFF"],
-
-    "TEXT_NORMAL": ["#EEF8FF"],
-    "TEXT_MUTED": ["#90A9C7"],
-    "TEXT_LINK": ["#63D7FF"],
-
-    "INTERACTIVE_NORMAL": ["#6FD8FF"],
-    "INTERACTIVE_HOVER": ["#92E4FF"],
-    "INTERACTIVE_ACTIVE": ["#D8F8FF"],
-    "INTERACTIVE_MUTED": ["#506883"],
-
-    "BACKGROUND_PRIMARY": ["#05070C"],
-    "BACKGROUND_SECONDARY": ["#09111D"],
-    "BACKGROUND_SECONDARY_ALT": ["#0D1625"],
-    "BACKGROUND_TERTIARY": ["#04060A"],
-    "BACKGROUND_ACCENT": ["#13385A"],
-    "BACKGROUND_FLOATING": ["#0E1623"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#09111D"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#0E1623"],
-    "BACKGROUND_NESTED_FLOATING": ["#070B12"],
-
-    "BACKGROUND_MESSAGE_HOVER": ["#0E1A2A"],
-    "BACKGROUND_MODIFIER_HOVER": ["#132238"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#174A6C"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#1D5E87"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#21344B"],
-
-    "SCROLLBAR_THIN_THUMB": ["#3A8DBF"],
-    "SCROLLBAR_THIN_TRACK": ["transparent"],
-    "SCROLLBAR_AUTO_THUMB": ["#5EBBFF"],
-    "SCROLLBAR_AUTO_TRACK": ["#0B1018"],
-
-    "CHANNELTEXTAREA_BACKGROUND": ["#0D1522"],
-    "CHANNELS_DEFAULT": ["#79CCFF"],
-    "TEXT_DANGER": ["#FF5E7A"],
-    "KEYBOARD": ["#05070C"],
-    "CHANNEL_ICON": ["#A7E2FF"],
-    "CHAT_BACKGROUND": ["#05070C"],
-
-    "SPOILER_HIDDEN_BACKGROUND": ["#304254"],
-    "SPOILER_REVEALED_BACKGROUND": ["#465A72"]
-  },
-  "rawColors": {
-    "PRIMARY_100": "#F4FBFF",
-    "PRIMARY_200": "#CDEFFF",
-    "PRIMARY_300": "#9BE3FF",
-    "PRIMARY_360": "#6FD8FF",
-    "PRIMARY_400": "#38C6FF",
-    "PRIMARY_500": "#1F9DE3",
-    "PRIMARY_600": "#0B1522",
-    "PRIMARY_630": "#101A29",
-    "PRIMARY_660": "#162233",
-    "PRIMARY_700": "#070B12",
-    "PRIMARY_800": "#05070C",
-
-    "BRAND_260": "#6FD8FF",
-    "BRAND_360": "#8BE5FF",
-    "BRAND_500": "#38C6FF",
-    "BRAND_560": "#5FD7FF",
-
-    "WHITE_500": "#FFFFFF",
-    "YELLOW_300": "#FFD766",
-    "GREEN_360": "#49F0B5",
-    "RED_400": "#FF5E7A"
-  },
+  "name": "Sapphire Stellar Collision Smooth",
+  "author": "Custom",
   "spec": 2,
   "background": {
-    "blur": 1,
     "url": "https://raw.githubusercontent.com/Xand93ck011010q/Theme/refs/heads/main/image0.jpg",
-    "alpha": 0.74,
-    "color": "#05070C"
+    "blur": 0,
+    "alpha": 0.55
+  },
+  "rawColors": {
+    "PRIMARY_600": "#0b0e14",
+    "PRIMARY_630": "#111622",
+    "PRIMARY_660": "#171f30",
+    "PRIMARY_700": "#0b0e14",
+    "PRIMARY_800": "#07090d",
+    "BRAND_500": "#007fb1",
+    "BRAND_560": "#3aa2cd",
+    "PLUM_20": "#007fb1"
+  },
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#11162200"],
+    "BACKGROUND_SECONDARY": ["#0b0e1466"],
+    "BACKGROUND_SECONDARY_ALT": ["#07090d80"],
+    "BACKGROUND_TERTIARY": ["#07090d80"],
+    "BACKGROUND_FLOATING": ["#0b0e14e6"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#11162200"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0b0e1466"],
+    "BACKGROUND_NESTED_FLOATING": ["#0b0e1480"],
+    "CHAT_BACKGROUND": ["#11162200"],
+    "HEADER_PRIMARY": ["#f2f5f9"],
+    "HEADER_SECONDARY": ["#a3b8cc"],
+    "TEXT_NORMAL": ["#dbe4ee"],
+    "TEXT_MUTED": ["#72879d"],
+    "INTERACTIVE_NORMAL": ["#a3b8cc"],
+    "INTERACTIVE_HOVER": ["#3aa2cd"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_MUTED": ["#42566c"]
   }
 }
