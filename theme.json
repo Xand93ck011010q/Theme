@@ -1,39 +1,37 @@
 {
-  "name": "Sapphire Stellar Collision Smooth",
+  "name": "Stellar Collision Sapphire Pure",
   "author": "Custom",
   "spec": 2,
   "background": {
     "url": "https://raw.githubusercontent.com/Xand93ck011010q/Theme/refs/heads/main/image0.jpg",
     "blur": 0,
-    "alpha": 0.55
+    "alpha": 0.8
   },
   "rawColors": {
-    "PRIMARY_600": "#0b0e14",
-    "PRIMARY_630": "#111622",
-    "PRIMARY_660": "#171f30",
-    "PRIMARY_700": "#0b0e14",
-    "PRIMARY_800": "#07090d",
+    "PRIMARY_600": "#00000000",
+    "PRIMARY_630": "#00000000",
+    "PRIMARY_660": "#00000000",
+    "PRIMARY_700": "#00000000",
+    "PRIMARY_800": "#00000000",
     "BRAND_500": "#007fb1",
-    "BRAND_560": "#3aa2cd",
-    "PLUM_20": "#007fb1"
+    "BRAND_560": "#3aa2cd"
   },
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#11162200"],
-    "BACKGROUND_SECONDARY": ["#0b0e1466"],
-    "BACKGROUND_SECONDARY_ALT": ["#07090d80"],
-    "BACKGROUND_TERTIARY": ["#07090d80"],
+    "BACKGROUND_PRIMARY": ["#00000000"],
+    "BACKGROUND_SECONDARY": ["#00000040"],
+    "BACKGROUND_SECONDARY_ALT": ["#00000060"],
+    "BACKGROUND_TERTIARY": ["#00000060"],
     "BACKGROUND_FLOATING": ["#0b0e14e6"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#11162200"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#0b0e1466"],
-    "BACKGROUND_NESTED_FLOATING": ["#0b0e1480"],
-    "CHAT_BACKGROUND": ["#11162200"],
-    "HEADER_PRIMARY": ["#f2f5f9"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#00000040"],
+    "BACKGROUND_NESTED_FLOATING": ["#00000040"],
+    "CHAT_BACKGROUND": ["#00000000"],
+    "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#a3b8cc"],
-    "TEXT_NORMAL": ["#dbe4ee"],
-    "TEXT_MUTED": ["#72879d"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#a3b8cc"],
     "INTERACTIVE_NORMAL": ["#a3b8cc"],
     "INTERACTIVE_HOVER": ["#3aa2cd"],
-    "INTERACTIVE_ACTIVE": ["#ffffff"],
-    "INTERACTIVE_MUTED": ["#42566c"]
+    "INTERACTIVE_ACTIVE": ["#ffffff"]
   }
 }
