@@ -1,0 +1,82 @@
+{
+  "name": "2cx4 theme",
+  "description": "Based on Purpdark V3, redesigned with a modern AMOLED purple aesthetic.",
+  "authors": [
+    {
+      "name": "@2cx4"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#F3E8FF"],
+    "HEADER_SECONDARY": ["#CDB8FF"],
+    "TEXT_NORMAL": ["#F8F4FF"],
+    "TEXT_MUTED": ["#9D92B8"],
+    "TEXT_LINK": ["#C88CFF"],
+
+    "INTERACTIVE_NORMAL": ["#C9A4FF"],
+    "INTERACTIVE_HOVER": ["#D7B8FF"],
+    "INTERACTIVE_ACTIVE": ["#F1DEFF"],
+    "INTERACTIVE_MUTED": ["#71658A"],
+
+    "BACKGROUND_PRIMARY": ["#09090C"],
+    "BACKGROUND_SECONDARY": ["#14121B"],
+    "BACKGROUND_SECONDARY_ALT": ["#18151F"],
+    "BACKGROUND_TERTIARY": ["#0B0A10"],
+    "BACKGROUND_ACCENT": ["#6E4FA5"],
+    "BACKGROUND_FLOATING": ["#191621"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#14121B"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#191621"],
+    "BACKGROUND_NESTED_FLOATING": ["#101018"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#1B1823"],
+    "BACKGROUND_MODIFIER_HOVER": ["#221D2C"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#6A42A5"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#7A4DC0"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#30283F"],
+
+    "SCROLLBAR_THIN_THUMB": ["#7C5CB8"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#A57BEA"],
+    "SCROLLBAR_AUTO_TRACK": ["#17151D"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#1A1722"],
+    "CHANNELS_DEFAULT": ["#B39AD9"],
+    "TEXT_DANGER": ["#FF4D7D"],
+    "KEYBOARD": ["#09090C"],
+    "CHANNEL_ICON": ["#D8C8F8"],
+    "CHAT_BACKGROUND": ["#09090C"],
+
+    "SPOILER_HIDDEN_BACKGROUND": ["#373042"],
+    "SPOILER_REVEALED_BACKGROUND": ["#4A435A"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F7EDFF",
+    "PRIMARY_200": "#DEC7FF",
+    "PRIMARY_300": "#C89BFF",
+    "PRIMARY_360": "#B87BFF",
+    "PRIMARY_400": "#9E57F5",
+    "PRIMARY_500": "#7343B9",
+    "PRIMARY_600": "#1A1624",
+    "PRIMARY_630": "#211C2C",
+    "PRIMARY_660": "#272133",
+    "PRIMARY_700": "#120F18",
+    "PRIMARY_800": "#09090C",
+
+    "BRAND_260": "#8E6AD9",
+    "BRAND_360": "#BB9BFF",
+    "BRAND_500": "#8E6AD9",
+    "BRAND_560": "#D2B7FF",
+
+    "WHITE_500": "#FFFFFF",
+    "YELLOW_300": "#F6C34D",
+    "GREEN_360": "#5BE39A",
+    "RED_400": "#FF4D7D"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 6,
+    "url": "https://raw.githubusercontent.com/Xand93ck011010q/Theme/refs/heads/main/image0.jpg",
+    "alpha": 0.82,
+    "color": "#09090C"
+  }
+}
